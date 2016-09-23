@@ -1,0 +1,28 @@
+{
+  "name": "urlinformation",
+  "version": "1.0.0",
+  "description": "Fetch Title, description and image of any web page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisthota/urlinformation.git"
+  },
+  "keywords": [
+    "get",
+    "information",
+    "form",
+    "URL",
+    "instant",
+    "url",
+    "information"
+  ],
+  "author": "Sai Thota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saisthota/urlinformation/issues"
+  },
+  "homepage": "https://github.com/saisthota/urlinformation#readme"
+}
