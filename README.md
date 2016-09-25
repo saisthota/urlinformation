@@ -1,6 +1,6 @@
 # URL Information
 
-### Fetch Title, Description and Image of a web page, A REST service developed in Nodejs.
+### Fetch Title and Description of a web page, A REST service developed in Nodejs.
 
 Super simple to use:
 
